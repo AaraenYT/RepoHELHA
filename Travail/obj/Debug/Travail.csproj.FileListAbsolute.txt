@@ -1,0 +1,7 @@
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\bin\Debug\Travail.exe.config
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\bin\Debug\Travail.exe
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\bin\Debug\Travail.pdb
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\obj\Debug\Travail.csproj.AssemblyReference.cache
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\obj\Debug\Travail.csproj.CoreCompileInputs.cache
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\obj\Debug\Travail.exe
+C:\Users\ae071\OneDrive\Images\Documents\Cours HELHa CGAcademy\Programmation\Projets C#\Travail\Travail\obj\Debug\Travail.pdb
